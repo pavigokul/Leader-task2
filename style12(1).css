@@ -1,0 +1,114 @@
+#home{
+    padding-top:15px;
+    padding-left:25%;
+    text-decoration:none;
+    
+}
+#about{
+    padding-top:15px;
+    padding-left:30px;
+    text-decoration: none;
+
+}
+#achive{
+    padding-top:15px;
+    padding-left:30px;
+    text-decoration: none;
+
+}
+
+#p1{
+    padding-top:15%;
+    padding-left:50%;
+    font-size:300%;
+}
+#p2{
+    padding-bottom:15%;
+    padding-left:52%;
+    font-size:130%;
+}
+#h1{
+    padding-left:20%;
+}
+#h2{
+    padding-top:5%;
+    padding-left:20%;
+}
+.para1{
+    padding-left:20%;
+    padding-right:40%;
+    font-size:130%;
+
+}
+.para2{
+    padding-left:20%;
+    padding-right:40%;
+    font-size:130%;
+}
+.span{
+    display: inline-block;
+    padding:20px;
+    margin: 1%;
+}
+.float{
+    padding-left: 30%;
+    padding-bottom: 8%;
+    padding-top: 5%;
+}
+#s1{
+    background-color: rgba(89, 193, 231, 0.877);
+}
+#s2{
+    background-color: crimson;
+}
+#s3{
+    background-color: orange;
+}
+.quotes{
+    background-color: black;
+    padding-left: 40%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+#line{
+    padding-top:3%;
+}
+#star{
+    padding-left: 48%;
+}
+.award{
+    display: inline-block;
+    padding: 10px;
+    margin: 1%;
+    border:1px solid rgb(177, 174, 174);
+}
+.a{
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.name{
+    font-weight: bold;
+}
+.year{
+    color: rgb(181, 180, 180);
+}
+.book{
+    padding-left: 46%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.f{
+    display: inline-block;
+    margin: 5%;
+}
+.clr{
+    color:rgba(166, 166, 97, 0.877);
+}
+#end{
+    padding-left:5%;
+}
+a:hover{
+    color: white;
+}
+
+    
